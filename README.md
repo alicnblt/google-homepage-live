@@ -1,4 +1,4 @@
-[Link](https://app.patika.dev/alicnblt)
+[Patika Profil](https://app.patika.dev/alicnblt)
 ---
 ![Image](/assest/google-home.jpg)
 ---
